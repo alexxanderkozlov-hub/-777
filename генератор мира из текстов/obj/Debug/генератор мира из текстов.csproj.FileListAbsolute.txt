@@ -1,0 +1,19 @@
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\bin\Debug\генератор мира из текстов.exe.config
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\bin\Debug\генератор мира из текстов.exe
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\bin\Debug\генератор мира из текстов.pdb
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.csproj.AssemblyReference.cache
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор_мира_из_текстов.Properties.Resources.resources
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.csproj.GenerateResource.cache
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.csproj.CoreCompileInputs.cache
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.exe
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.pdb
+C:\Users\danet\source\repos\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.exe.config
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\bin\Debug\генератор мира из текстов.exe.config
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\bin\Debug\генератор мира из текстов.exe
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\bin\Debug\генератор мира из текстов.pdb
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.csproj.AssemblyReference.cache
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор_мира_из_текстов.Properties.Resources.resources
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.csproj.GenerateResource.cache
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.csproj.CoreCompileInputs.cache
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.exe
+C:\Users\alexv\Desktop\генератор мира из текстов\генератор мира из текстов\генератор мира из текстов\obj\Debug\генератор мира из текстов.pdb
